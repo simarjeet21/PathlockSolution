@@ -24,9 +24,6 @@ Folders:
 - npm run dev
 - VITE_API_URL should point to backend API
 
-## Submission
-Do not upload a .zip. Push this repo to GitHub/GitLab and share link.
-
-## Bonus (Deployment)
+## Future Scope - Deployment
 - Backend: Deploy to Render/Heroku using Docker or .NET start commands.
 - Frontend: Deploy to Vercel (connect to this repo).
